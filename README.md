@@ -20,19 +20,19 @@ This is a simple Node.js API for managing products. It uses Express.js for routi
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+      git clone https://github.com/your-username/your-repo-name.git
    ```
    
 2.Navigate to the project directory:
 
     ```bash
-    cd your-repo-name
+       cd your-repo-name
     ```
     
 3.Install dependencies:
 
     ```bash
-    npm install
+       npm install
     ```
     
 4.Set up environment variables:
@@ -40,13 +40,13 @@ This is a simple Node.js API for managing products. It uses Express.js for routi
         - Add your MongoDB connection URL:
         
         ```bash
-        CONNECTION_URL=mongodb://localhost:27017/store
+           CONNECTION_URL=mongodb://localhost:27017/store
         ```
         
 5.Start the server:
 
     ```bash
-    npm start
+       npm start
     ```
     Access the API:
     The server will run on http://127.0.0.1:3000.
