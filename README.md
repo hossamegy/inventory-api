@@ -24,13 +24,11 @@ This is a simple Node.js API for managing products. It uses Express.js for routi
    ```
    
 2.Navigate to the project directory:
-
     ```bash
        cd your-repo-name
     ```
     
 3.Install dependencies:
-
     ```bash
        npm install
     ```
@@ -38,13 +36,11 @@ This is a simple Node.js API for managing products. It uses Express.js for routi
 4.Set up environment variables:
         - Create a .env file in the root directory.
         - Add your MongoDB connection URL:
-        
         ```bash
            CONNECTION_URL=mongodb://localhost:27017/store
         ```
         
 5.Start the server:
-
     ```bash
        npm start
     ```
