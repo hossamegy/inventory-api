@@ -1,0 +1,1089 @@
+[
+    {
+        "name": "HP Spectre x360",
+        "price": 1200,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:00:00Z"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 999,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:01:00Z"
+    },
+    {
+        "name": "MSI GS66 Stealth",
+        "price": 1800,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:02:00Z"
+    },
+    {
+        "name": "Asus ZenBook 14",
+        "price": 850,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:03:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad X1",
+        "price": 1500,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:04:00Z"
+    },
+    {
+        "name": "HP Envy 13",
+        "price": 999,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:05:00Z"
+    },
+    {
+        "name": "Dell Inspiron 15",
+        "price": 650,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:06:00Z"
+    },
+    {
+        "name": "MSI GF65 Thin",
+        "price": 1200,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:07:00Z"
+    },
+    {
+        "name": "Asus ROG Zephyrus G14",
+        "price": 1450,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:08:00Z"
+    },
+    {
+        "name": "Lenovo Yoga C740",
+        "price": 800,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:09:00Z"
+    },
+    {
+        "name": "HP Pavilion 15",
+        "price": 700,
+        "rate": 4,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:10:00Z"
+    },
+    {
+        "name": "Dell G5 15",
+        "price": 1200,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:11:00Z"
+    },
+    {
+        "name": "MSI Creator 15",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:12:00Z"
+    },
+    {
+        "name": "Asus VivoBook 15",
+        "price": 500,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:13:00Z"
+    },
+    {
+        "name": "Lenovo Legion 5",
+        "price": 1300,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:14:00Z"
+    },
+    {
+        "name": "HP Omen 15",
+        "price": 1500,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:15:00Z"
+    },
+    {
+        "name": "Dell Latitude 7420",
+        "price": 1600,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:16:00Z"
+    },
+    {
+        "name": "MSI GL66 Pulse",
+        "price": 1200,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:17:00Z"
+    },
+    {
+        "name": "Asus TUF Gaming A15",
+        "price": 1100,
+        "rate": 5,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:18:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad 3",
+        "price": 600,
+        "rate": 4,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:19:00Z"
+    },
+    {
+        "name": "HP ProBook 450",
+        "price": 800,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:20:00Z"
+    },
+    {
+        "name": "Dell Precision 5560",
+        "price": 2500,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:21:00Z"
+    },
+    {
+        "name": "MSI Stealth 15M",
+        "price": 1400,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:22:00Z"
+    },
+    {
+        "name": "Asus Chromebook Flip",
+        "price": 400,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:23:00Z"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "price": 700,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:24:00Z"
+    },
+    {
+        "name": "HP Elite Dragonfly",
+        "price": 2000,
+        "rate": 7,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:25:00Z"
+    },
+    {
+        "name": "Dell XPS 15",
+        "price": 1999,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:26:00Z"
+    },
+    {
+        "name": "MSI GE76 Raider",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:27:00Z"
+    },
+    {
+        "name": "Asus ROG Strix G15",
+        "price": 1400,
+        "rate": 5,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:28:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad L14",
+        "price": 1000,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:29:00Z"
+    },
+    {
+        "name": "HP EliteBook 840",
+        "price": 1200,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:30:00Z"
+    },
+    {
+        "name": "Dell Vostro 15",
+        "price": 750,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:31:00Z"
+    },
+    {
+        "name": "MSI Alpha 15",
+        "price": 1000,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:32:00Z"
+    },
+    {
+        "name": "Asus Chromebook C423",
+        "price": 350,
+        "rate": 3,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:33:00Z"
+    },
+    {
+        "name": "Lenovo Flex 5",
+        "price": 600,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:34:00Z"
+    },
+    {
+        "name": "HP ZBook Firefly",
+        "price": 1500,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:35:00Z"
+    },
+    {
+        "name": "Dell Inspiron 14",
+        "price": 700,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:36:00Z"
+    },
+    {
+        "name": "MSI Bravo 15",
+        "price": 800,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:37:00Z"
+    },
+    {
+        "name": "Asus ROG Flow X13",
+        "price": 1800,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:38:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad Flex 5",
+        "price": 650,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:39:00Z"
+    },
+    {
+        "name": "HP ProBook 455",
+        "price": 750,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:40:00Z"
+    },
+    {
+        "name": "Dell Latitude 5520",
+        "price": 1300,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:41:00Z"
+    },
+    {
+        "name": "MSI GS75 Stealth",
+        "price": 2100,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:42:00Z"
+    },
+    {
+        "name": "Asus ExpertBook B9",
+        "price": 1800,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:43:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad E14",
+        "price": 950,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:44:00Z"
+    },
+    {
+        "name": "HP Envy x360",
+        "price": 999,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:45:00Z"
+    },
+    {
+        "name": "Dell G3 15",
+        "price": 900,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:46:00Z"
+    },
+    {
+        "name": "MSI GF63 Thin",
+        "price": 700,
+        "rate": 4,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:47:00Z"
+    },
+    {
+        "name": "Asus ROG Zephyrus G14",
+        "price": 1600,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:48:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad 5",
+        "price": 750,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:49:00Z"
+    },
+    {
+        "name": "HP Spectre Folio",
+        "price": 2000,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:50:00Z"
+    },
+    {
+        "name": "Dell XPS 17",
+        "price": 2500,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:51:00Z"
+    },
+    {
+        "name": "MSI GL75 Leopard",
+        "price": 1500,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:52:00Z"
+    },
+    {
+        "name": "Asus VivoBook Flip 14",
+        "price": 700,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:53:00Z"
+    },
+    {
+        "name": "Lenovo Legion 7",
+        "price": 2000,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:54:00Z"
+    },
+    {
+        "name": "HP ProBook x360",
+        "price": 1100,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:55:00Z"
+    },
+    {
+        "name": "Dell Latitude 9410",
+        "price": 1800,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:56:00Z"
+    },
+    {
+        "name": "MSI Prestige 14",
+        "price": 1300,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:57:00Z"
+    },
+    {
+        "name": "Asus ZenBook Duo",
+        "price": 1300,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:58:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad P15",
+        "price": 2500,
+        "rate": 7,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:59:00Z"
+    },
+    {
+        "name": "HP Omen 17",
+        "price": 2000,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:00:00Z"
+    },
+    {
+        "name": "Dell G7 17",
+        "price": 1800,
+        "rate": 5,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:01:00Z"
+    },
+    {
+        "name": "MSI Alpha 17",
+        "price": 1600,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:02:00Z"
+    },
+    {
+        "name": "Asus ROG Strix Scar 15",
+        "price": 2000,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:03:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad Gaming 3",
+        "price": 950,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:04:00Z"
+    },
+    {
+        "name": "HP ProBook 440",
+        "price": 850,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:05:00Z"
+    },
+    {
+        "name": "Dell Vostro 3401",
+        "price": 600,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:06:00Z"
+    },
+    {
+        "name": "MSI Modern 14",
+        "price": 700,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:07:00Z"
+    },
+    {
+        "name": "Asus Chromebook C223",
+        "price": 300,
+        "rate": 3,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:08:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Nano",
+        "price": 1500,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:09:00Z"
+    },
+    {
+        "name": "HP Spectre 14",
+        "price": 1400,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:10:00Z"
+    },
+    {
+        "name": "Dell Precision 5750",
+        "price": 3000,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:11:00Z"
+    },
+    {
+        "name": "MSI GS66 Stealth 10UE",
+        "price": 2200,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:12:00Z"
+    },
+    {
+        "name": "Asus ROG Zephyrus S17",
+        "price": 3500,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:13:00Z"
+    },
+    {
+        "name": "Lenovo Yoga 9i",
+        "price": 1300,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:14:00Z"
+    },
+    
+    {
+        "name": "HP Pavilion Gaming",
+        "price": 850,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:00:00Z"
+    },
+    {
+        "name": "Dell XPS 13 Plus",
+        "price": 1299,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:01:00Z"
+    },
+    {
+        "name": "MSI Stealth GS77",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:02:00Z"
+    },
+    {
+        "name": "Asus ROG Zephyrus M16",
+        "price": 2000,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:03:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad 5 Pro",
+        "price": 750,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:04:00Z"
+    },
+    {
+        "name": "HP Spectre 15",
+        "price": 1500,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:05:00Z"
+    },
+    {
+        "name": "Dell Inspiron 16",
+        "price": 900,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:06:00Z"
+    },
+    {
+        "name": "MSI Bravo 17",
+        "price": 1200,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:07:00Z"
+    },
+    {
+        "name": "Asus VivoBook S14",
+        "price": 600,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:08:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad T14",
+        "price": 1200,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:09:00Z"
+    },
+    {
+        "name": "HP EliteBook 735",
+        "price": 1300,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:10:00Z"
+    },
+    {
+        "name": "Dell G15 5511",
+        "price": 950,
+        "rate": 5,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:11:00Z"
+    },
+    {
+        "name": "MSI GF75 Thin",
+        "price": 1000,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:12:00Z"
+    },
+    {
+        "name": "Asus Chromebook Flip C434",
+        "price": 450,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:13:00Z"
+    },
+    {
+        "name": "Lenovo Legion 5 Pro",
+        "price": 1800,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:14:00Z"
+    },
+    {
+        "name": "HP ProBook 470",
+        "price": 800,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:15:00Z"
+    },
+    {
+        "name": "Dell Precision 3570",
+        "price": 2200,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:16:00Z"
+    },
+    {
+        "name": "MSI Creator 17",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:17:00Z"
+    },
+    {
+        "name": "Asus ZenBook Flip 14",
+        "price": 1000,
+        "rate": 5,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:18:00Z"
+    },
+    {
+        "name": "Lenovo Yoga 7i",
+        "price": 1200,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:19:00Z"
+    },
+    {
+        "name": "HP Omen 16",
+        "price": 1700,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:20:00Z"
+    },
+    {
+        "name": "Dell XPS 17 9700",
+        "price": 2399,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:21:00Z"
+    },
+    {
+        "name": "MSI GS66 Stealth 10UG",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:22:00Z"
+    },
+    {
+        "name": "Asus ROG Strix G17",
+        "price": 2000,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:23:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Yoga",
+        "price": 1900,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:24:00Z"
+    },
+    {
+        "name": "HP Envy 15",
+        "price": 1300,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:25:00Z"
+    },
+    {
+        "name": "Dell G3 15",
+        "price": 950,
+        "rate": 5,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:26:00Z"
+    },
+    {
+        "name": "MSI Alpha 15",
+        "price": 1100,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:27:00Z"
+    },
+    {
+        "name": "Asus ExpertBook B7 Flip",
+        "price": 1400,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:28:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad Flex 5i",
+        "price": 800,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:29:00Z"
+    },
+    {
+        "name": "HP Spectre x360 14",
+        "price": 1500,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:30:00Z"
+    },
+    {
+        "name": "Dell Latitude 5430",
+        "price": 1300,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:31:00Z"
+    },
+    {
+        "name": "MSI Modern 15",
+        "price": 800,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:32:00Z"
+    },
+    {
+        "name": "Asus VivoBook 15",
+        "price": 600,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:33:00Z"
+    },
+    {
+        "name": "Lenovo ThinkBook 14s",
+        "price": 900,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:34:00Z"
+    },
+    {
+        "name": "HP ProBook 450 G8",
+        "price": 750,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:35:00Z"
+    },
+    {
+        "name": "Dell Vostro 15 3000",
+        "price": 650,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:36:00Z"
+    },
+    {
+        "name": "MSI GF65 Thin",
+        "price": 1000,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:37:00Z"
+    },
+    {
+        "name": "Asus Chromebook C223",
+        "price": 300,
+        "rate": 3,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:38:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "price": 1600,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:39:00Z"
+    },
+    {
+        "name": "HP Envy x360 15",
+        "price": 999,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:40:00Z"
+    },
+    {
+        "name": "Dell XPS 15 9520",
+        "price": 2200,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:41:00Z"
+    },
+    {
+        "name": "MSI GF63 Thin 10SCXR",
+        "price": 800,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:42:00Z"
+    },
+    {
+        "name": "Asus ROG Flow Z13",
+        "price": 1300,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:43:00Z"
+    },
+    {
+        "name": "Lenovo Yoga 6",
+        "price": 950,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:44:00Z"
+    },
+    {
+        "name": "HP Omen 15",
+        "price": 1200,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:45:00Z"
+    },
+    {
+        "name": "Dell Alienware X17",
+        "price": 3000,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:46:00Z"
+    },
+    {
+        "name": "MSI Raider GE76",
+        "price": 2400,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:47:00Z"
+    },
+    {
+        "name": "Asus TUF Dash F15",
+        "price": 1400,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:48:00Z"
+    },
+    {
+        "name": "Lenovo Legion 7i",
+        "price": 2000,
+        "rate": 7,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:49:00Z"
+    },
+    {
+        "name": "HP Spectre 13",
+        "price": 1400,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:50:00Z"
+    },
+    {
+        "name": "Dell Inspiron 15 3000",
+        "price": 700,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:51:00Z"
+    },
+    {
+        "name": "MSI Summit E14",
+        "price": 1600,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:52:00Z"
+    },
+    {
+        "name": "Asus VivoBook 14",
+        "price": 700,
+        "rate": 4,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:53:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad L14",
+        "price": 800,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:54:00Z"
+    },
+    {
+        "name": "HP ProBook 455 G8",
+        "price": 750,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T10:55:00Z"
+    },
+    {
+        "name": "Dell Vostro 14 3000",
+        "price": 650,
+        "rate": 4,
+        "campany": "dell",
+        "createdAt": "2024-11-04T10:56:00Z"
+    },
+    {
+        "name": "MSI Creator 15",
+        "price": 1800,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T10:57:00Z"
+    },
+    {
+        "name": "Asus ZenBook 14",
+        "price": 1200,
+        "rate": 5,
+        "campany": "asus",
+        "createdAt": "2024-11-04T10:58:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad 3",
+        "price": 500,
+        "rate": 4,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T10:59:00Z"
+    },
+    {
+        "name": "HP Envy 14",
+        "price": 1300,
+        "rate": 5,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:00:00Z"
+    },
+    {
+        "name": "Dell Latitude 7330",
+        "price": 1600,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:01:00Z"
+    },
+    {
+        "name": "MSI Delta 15",
+        "price": 1300,
+        "rate": 5,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:02:00Z"
+    },
+    {
+        "name": "Asus ROG Zephyrus G15",
+        "price": 2000,
+        "rate": 7,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:03:00Z"
+    },
+    {
+        "name": "Lenovo Yoga 9i",
+        "price": 1500,
+        "rate": 6,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:04:00Z"
+    },
+    {
+        "name": "HP Spectre 13t",
+        "price": 1600,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:05:00Z"
+    },
+    {
+        "name": "Dell Precision 7760",
+        "price": 4000,
+        "rate": 7,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:06:00Z"
+    },
+    {
+        "name": "MSI GS66 Stealth 11UE",
+        "price": 2500,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:07:00Z"
+    },
+    {
+        "name": "Asus ROG Flow X13",
+        "price": 1800,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:08:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad P15",
+        "price": 3000,
+        "rate": 7,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:09:00Z"
+    },
+    {
+        "name": "HP Elite Dragonfly",
+        "price": 2000,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:10:00Z"
+    },
+    {
+        "name": "Dell G7 15",
+        "price": 1400,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:11:00Z"
+    },
+    {
+        "name": "MSI Pulse GL66",
+        "price": 1300,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:12:00Z"
+    },
+    {
+        "name": "Asus ZenBook Duo 14",
+        "price": 1800,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:13:00Z"
+    },
+    {
+        "name": "Lenovo ThinkPad L15",
+        "price": 800,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:14:00Z"
+    },
+    {
+        "name": "HP EliteBook 850",
+        "price": 1300,
+        "rate": 6,
+        "campany": "hp",
+        "createdAt": "2024-11-04T11:15:00Z"
+    },
+    {
+        "name": "Dell Latitude 7420",
+        "price": 1700,
+        "rate": 6,
+        "campany": "dell",
+        "createdAt": "2024-11-04T11:16:00Z"
+    },
+    {
+        "name": "MSI Katana GF76",
+        "price": 1300,
+        "rate": 6,
+        "campany": "msi",
+        "createdAt": "2024-11-04T11:17:00Z"
+    },
+    {
+        "name": "Asus TUF Gaming F17",
+        "price": 1400,
+        "rate": 6,
+        "campany": "asus",
+        "createdAt": "2024-11-04T11:18:00Z"
+    },
+    {
+        "name": "Lenovo IdeaPad 5i Pro",
+        "price": 950,
+        "rate": 5,
+        "campany": "lenovo",
+        "createdAt": "2024-11-04T11:19:00Z"
+    }
+    
+]
